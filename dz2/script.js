@@ -15,7 +15,6 @@ let addInList = (name, theComment, listID) => {
 }
 let slcFn = (comment) => comment.length<20 ? comment : comment.slice(0,19)+"...";
 
-
 let main = async () => {
     clearList(LEFTLIST);
     clearList(RIGHTLIST);
