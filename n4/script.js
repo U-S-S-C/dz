@@ -17,7 +17,7 @@ let addInList = (user, listSelector) => {
             <p>ID:      ${user['id']}</p>
             <p>Имя:     ${user['name']}</p>
             <p>Возраст: ${user['age']}</p>
-            <p>Пол:     ${user['sex'] ? "Мужской" : "Женский"}</p>
+            <p>Пол:     ${user['sex']}</p>
         </li>
     `)
 }
@@ -29,8 +29,24 @@ let getUsers = async () => {
         addInList(data[i], LIST);
 }
 
-let addUser = async () => {
+let readUser = () => {
+    return {
+        "id": ID.value,
+        "name": NAME.value,
+        "age": AGE.value,
+        "sex": SEX.value
+    };
+}
 
+let addUser = async () => {
+    const res = await fetch(URL, {
+        method: 'POST',
+        body: JSON.stringify(readUser()),
+        headers: {
+            'Content-type':'application/json; charset=UTF-8'
+        },
+    })
+    return res.json();
 }
 
 /*

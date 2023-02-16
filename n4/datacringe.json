@@ -1,22 +1,46 @@
 {
-    "USERS": [
-        {
-            "id": 1488,
-            "name": "Dima",
-            "age": 21,
-            "sex": true
-        },
-        {
-            "id": 777,
-            "name": "Maria",
-            "age": 16,
-            "sex": false
-        },
-        {    
-            "id": 228,
-            "name": "Gena",
-            "age": 15,
-            "sex": false
-        }
-    ]    
+  "USERS": [
+    {
+      "id": 1337,
+      "name": "Dima",
+      "age": 21,
+      "sex": "Male"
+    },
+    {
+      "id": 777,
+      "name": "Maria",
+      "age": 16,
+      "sex": "Male"
+    },
+    {
+      "id": 228,
+      "name": "Gena",
+      "age": 15,
+      "sex": "Female"
+    },
+    {
+      "id": "300",
+      "name": "Van",
+      "age": "50",
+      "sex": "Male"
+    },
+    {
+      "id": "666",
+      "name": "Vergil",
+      "age": "50",
+      "sex": "Male"
+    },
+    {
+      "id": "4",
+      "name": "Ann",
+      "age": "15",
+      "sex": "Female"
+    },
+    {
+      "id": "400",
+      "name": "Roma",
+      "age": "14",
+      "sex": "Male"
+    }
+  ]
 }
