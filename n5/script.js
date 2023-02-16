@@ -10,10 +10,10 @@ let clearList = (selector) => selector.innerHTML = "";
 
 class basedBlock {
     constructor(style){
-        let blockSelector =
+        let blockSelector ='';
     }
     addToScreen(screenSelector){
-        
+
     }
 }
 

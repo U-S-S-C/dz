@@ -17,7 +17,7 @@ html, body{
     background: rgb(10, 10, 10);
 }
 
-.screen{
+#screen{
     margin: 40px;
     width: 90%;
     height: 600px;
