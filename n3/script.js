@@ -25,4 +25,5 @@ let main = async () => {
     }
     console.log(data);
 }
+
 BUTTON.addEventListener('click', main);

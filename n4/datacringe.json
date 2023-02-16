@@ -1,0 +1,22 @@
+{
+    "USERS": [
+        {
+            "id": 1488,
+            "name": "Dima",
+            "age": 21,
+            "sex": true
+        },
+        {
+            "id": 777,
+            "name": "Maria",
+            "age": 16,
+            "sex": false
+        },
+        {    
+            "id": 228,
+            "name": "Gena",
+            "age": 15,
+            "sex": false
+        }
+    ]    
+}
