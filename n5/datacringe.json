@@ -1,0 +1,16 @@
+{
+  "BLOCKS": [
+    {
+      "id": 1,
+      "width": "",
+      "height":"",
+      "color":""
+    },
+    {
+      "id": 2,
+      "width": "Maria",
+      "height":"",
+      "color":""
+    }
+  ]
+}
