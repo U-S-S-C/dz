@@ -55,7 +55,7 @@ const createIndexFile = () => {
     let result2 = lodash.reverse(array);
     console.log(result1 + "and" + result2);
     `
-    fs.writeFile("script.js", script, (error) => {})
+    fs.writeFile("script.mjs", script, (error) => {})
 }
 
 createHTMLfile();
