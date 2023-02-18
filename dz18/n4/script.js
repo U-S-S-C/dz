@@ -49,16 +49,5 @@ let addUser = async () => {
     return res.json();
 }
 
-/*
-let main = async () => {
-    clearList(LEFTLIST);
-    clearList(RIGHTLIST);
-    let data = await getData(url);
-    for (let i = 0; i<data.length; i++){
-        addInList(data[i]["name"], data[i]["comment"], LEFTLIST);
-        addInList(data[i]["name"], slcFn(data[i]["comment"]), RIGHTLIST);
-    }
-    console.log(data);
-} */
 GETBUTTON.addEventListener('click', getUsers);
 SENDBUTTON.addEventListener('click', addUser);
