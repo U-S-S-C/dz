@@ -1,0 +1,17 @@
+{
+    "USERS": [
+        {
+            "name":"Dima",
+            "ava":"https://cdn.discordapp.com/attachments/1012348049399500881/1031610807743684649/VK_1.jpeg",
+            "price":2517,
+            "curency":"nuha"
+        },
+
+        {
+            "name":"Gena",
+            "ava":"https://cdn.discordapp.com/attachments/1012345130293919825/1078773857856532500/43B3C3D6F7C6AE03E1EC4ADAC4FE2A8FF78C9E08.png",
+            "price":2000,
+            "curency":"nuha"
+        }
+    ]    
+}
