@@ -1,17 +1,48 @@
 {
     "USERS": [
         {
-            "name":"Dima",
-            "ava":"https://cdn.discordapp.com/attachments/1012348049399500881/1031610807743684649/VK_1.jpeg",
-            "price":2517,
-            "curency":"nuha"
+            "name":"Энергоручка",
+            "ava":"https://wiki.station13.ru/images/2/26/Edagger.gif",
+            "price":2,
+            "curency":"telecrystal"
         },
 
         {
-            "name":"Gena",
-            "ava":"https://cdn.discordapp.com/attachments/1012345130293919825/1078773857856532500/43B3C3D6F7C6AE03E1EC4ADAC4FE2A8FF78C9E08.png",
-            "price":2000,
-            "curency":"nuha"
+            "name":"D100",
+            "ava":"https://wiki.station13.ru/images/b/b7/Syndibox.png",
+            "price":40,
+            "curency":"telecrystal"
+        },
+        {
+            "name":"Hecate 2",
+            "ava":"https://wiki.station13.ru/images/f/f8/WWIII.png",
+            "price":15,
+            "curency":"telecrystal"
+        },
+        {
+            "name":"E-MAG",
+            "ava":"https://wiki.station13.ru/images/2/2d/Emag.png",
+            "price":8,
+            "curency":"telecrystal"
+        },
+        {
+            "name":"DOOR-MAG",
+            "ava":"https://wiki.station13.ru/images/c/c6/Syndicate_doorjack.png",
+            "price":8,
+            "curency":"telecrystal"
+        },
+        {
+            "name":"CR-20R",
+            "ava":"https://wiki.station13.ru/images/4/4e/C20r.png",
+            "price":10,
+            "curency":"telecrystal"
+        },
+        {
+            "name":"Nord Star Gloves",
+            "ava":"https://wiki.station13.ru/images/3/3f/North_star.png",
+            "price":7,
+            "curency":"telecrystal"
         }
+        
     ]    
 }
