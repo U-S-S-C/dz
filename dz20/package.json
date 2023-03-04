@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "packagename": "^2.0.1",
+    "zlib": "^1.0.5"
+  }
+}
